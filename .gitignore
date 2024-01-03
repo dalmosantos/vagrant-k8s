@@ -1,1 +1,5 @@
 .vagrant/
+kubeconfig
+hosts
+kubeadm_join_cmd
+kubeinit.log
